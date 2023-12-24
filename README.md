@@ -11,5 +11,5 @@ pip install requests beautifulsoup4
 
 ```
 python .\youtudeconsole.py -h
-python .\youtudeconsole.py -u  https://www.google.com.ua/?gws_rd=ssl -p php
+python .\youtudeconsole.py -u  https://ввв.сайт.ком/ -p php
 ```
